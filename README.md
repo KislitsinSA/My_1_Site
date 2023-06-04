@@ -3,6 +3,7 @@
 Меня зовут _Сергей_, или уж совсем официально **Кислицин Сергей Александрович**.
 
 > Выгляжу как-то так :)
-![Где фото? :(](https://github.com/KislitsinSA/kislitsinsa.github.io/blob/main/foto/Litlfoto.jpg)
+> 
+> ![Где фото? :(](https://github.com/KislitsinSA/kislitsinsa.github.io/blob/main/foto/Litlfoto.jpg)
 
 На данный момент работаю системным администратором и изучаю язык ***С++***.
