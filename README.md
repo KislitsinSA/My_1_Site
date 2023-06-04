@@ -4,6 +4,6 @@
 
 > Выгляжу как-то так :)
 > 
-> ![Где фото? :(](https://github.com/KislitsinSA/kislitsinsa.github.io/blob/main/foto/Litlfoto.jpg)
+> ![](https://github.com/KislitsinSA/kislitsinsa.github.io/blob/main/foto/Litlfoto.jpg)
 
-На данный момент работаю системным администратором и изучаю язык ***С++***.
+> На данный момент работаю системным администратором и изучаю язык ***С++***.
